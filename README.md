@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashmi Fernando</h1>
 <h3 align="center">A passionate software engineering student from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on [My portfolio](https://github.com/kash2005/MyPortfolio.git)
 
 - 🌱 I’m currently learning **Java base frame works and web development technologies liked HTML , CSS and JavaScript**
 
