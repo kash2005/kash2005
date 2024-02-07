@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kashmifernando3@gmail.com**
  
-- 📫 This is my portfolio https://kash2005.github.io/MyPortfolio/#about
+- 📫 This is my portfolio https://kash2005.github.io/MyPortfolio/
 
 - ⚡ Fun fact **I think I am funny**
 
