@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kashmi Fernando</h1>
 <h3 align="center">A passionate software engineering student from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [My portfolio](https://github.com/kash2005/MyPortfolio.git)
+- 🔭 I’m currently working on [Juice Bar](https://github.com/kash2005/Juice-Bar-Management-System)
 
-- 🌱 I’m currently learning **Java base frame works and web development technologies liked HTML , CSS and JavaScript**
+- 🌱 I’m currently learning **Spring frame work**
 
 - 📫 How to reach me **kashmifernando3@gmail.com**
  
-- 📫 This is my portfolio https://kash2005.github.io/MyPortfolio/
+- 🌱 This is my portfolio https://kash2005.github.io/MyPortfolio/
 
 - ⚡ Fun fact **I think I am funny**
 
