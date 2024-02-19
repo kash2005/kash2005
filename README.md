@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashmi Fernando</h1>
 <h3 align="center">A passionate software engineering student from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [Juice Bar](https://github.com/kash2005/Juice-Bar-Management-System)
+- 🔭 I’m currently working on [Juice Bar](https://github.com/kash2005/Juice-Bar-Management-System2)
 
 - 🌱 I’m currently learning **Spring frame work**
 
