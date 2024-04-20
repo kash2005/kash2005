@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kashmi Fernando</h1>
 <h3 align="center">A passionate software engineering student from Sri Lanka</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kash2005&label=Profile%20views&color=0e75b6&style=flat" alt="kash2005" /> </p>
 
 - 🔭 I’m currently working on [Juice Bar](https://github.com/kash2005/Juice-Bar-Management-System2)
 
