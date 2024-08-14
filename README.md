@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineering student from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kash2005&label=Profile%20views&color=0e75b6&style=flat" alt="kash2005" /> </p>
 
-- 🔭 I’m currently working on [Pizza Mobile App](https://github.com/kash2005/PizzaHut-mobile-app)
+- 🔭 I’m currently working on [My Personal Portfolio](https://github.com/kash2005/My-Personal-Portfolio)
 
 - 🌱 I’m currently learning **React Native**
 
