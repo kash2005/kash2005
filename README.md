@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [My Personal Portfolio](https://github.com/kash2005/My-Personal-Portfolio)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **kashmifernando3@gmail.com**
  
