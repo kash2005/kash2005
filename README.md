@@ -7,16 +7,15 @@
 - 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **kashmifernando3@gmail.com**
-
-- 🌟 This is my behance account https://www.behance.net/kashmifernando
  
-- 🌱 This is my portfolio https://kash2005.github.io/MyPortfolio/
+- 🌟 This is my portfolio https://kash2005.github.io/MyPortfolio/
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kashmi fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashmi fernando" height="30" width="40" /></a>
+<a href="https://www.behance.net/kashmifernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kashmivenushika" height="30" width="40" /></a> 
 <a href="https://fb.com/kashmi fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kashmi fernando" height="30" width="40" /></a>
 <a href="https://instagram.com/kash_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kash_fernando" height="30" width="40" /></a>
 </p>
