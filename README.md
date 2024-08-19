@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **kashmifernando3@gmail.com**
+
+- 🌟 This is my behance account https://www.behance.net/kashmifernando
  
 - 🌱 This is my portfolio https://kash2005.github.io/MyPortfolio/
 
